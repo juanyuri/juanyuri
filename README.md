@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanyuri&label=Profile%20views&color=red&style=flat" alt="juanyuri" /> </p>
 
-- 🔭 I’m currently pursuing course on **Data Science**
+- 🔭 I’m currently pursuing course on **Machine Learning**
 
-- 🌱 I’m currently learning **Python and Advanced JS**
+- 🌱 I’m currently learning **Advanced JS, ML Frameworks and Frontend Frameworks**
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Frontend Projects**
 
-- 💬 Ask me about **Recurrent Neural Networks/Webscraping/Vue.js**
+- 💬 Ask me about **Recurrent Neural Networks/Webscraping/Vue.js/ML**
 
 - 📫 How to reach me **jdsanchez19@esei.uvigo.es**
 
